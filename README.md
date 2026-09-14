@@ -1,0 +1,3 @@
+Yes I used an AI Assistant in Jetbrains Webstorm. It was more of a debugging partner than anything. I wrote and structured through the JS stuff myself and when I got stuck I would ask questions to an AI overview. Really more than anything figuring out terminal error messages was the big AI job. 
+
+I don't feel like the stuff I write is enterprise level. It feels basic and straightforward. I prefer Python and honestly kinda struggle with JS. My direct example of AI use would be when "nextId is not defined" I used an AI assistant to help me figure out pathways that were broken. I also don't download this into VScode and then use it and import it back. I just copy+paste into Webstorm. It is much more efficient. 
